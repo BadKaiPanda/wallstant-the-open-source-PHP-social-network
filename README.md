@@ -1,3 +1,4 @@
+
 # PHP-social-network-built-on-wallstant
 Create your own social network in PHP based on Wallstant
 
@@ -11,8 +12,13 @@ Create your own social network in PHP based on Wallstant
 	<li>upload wallstant folder to your host.</li>
 	<li>Enjoy it.</li>
 </ol>
-<hr>
 
+<br>
+
+## Todo
+Global White Lable, user adds there name and it will remove the scripts current name at that time <br>Clean/delete chat messages <br>Off The Record support <br>
+
+<hr>
 ## Contact Wallstant Dev
 [Instagram](https://instagram.com/munafio) <br>
 [Facebook](https://facebook.com/munafio) <br>
