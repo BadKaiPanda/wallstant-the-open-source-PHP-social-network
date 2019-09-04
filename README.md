@@ -16,7 +16,9 @@ Create your own social network in PHP based on Wallstant
 <br>
 
 ## Todo
-Global White Lable, user adds there name and it will remove the scripts current name at that time <br>Clean/delete chat messages <br>Off The Record support <br>
+* Global White Lable, user adds there name and it will remove the scripts current name at that time.
+* Clean/delete chat messages.
+* Off The Record support.
 
 <hr>
 
